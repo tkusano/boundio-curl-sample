@@ -15,7 +15,7 @@ How To Compile on Debian / Ubuntu
 ---------------------------------
 
 1. % sudo apt-get install libcurl4-gnutls-dev
-2. % sudo apt-get install libcurl4-gnutls-dev
+2. % sudo apt-get install libjson0-dev
 3. editor bound-curl-sample.c
 4. make
 
